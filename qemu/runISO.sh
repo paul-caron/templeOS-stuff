@@ -1,1 +1,1 @@
-qemu-system-x86_64 -cdrom TempleOS.ISO -m 128M
+qemu-system-x86_64 -cdrom TempleOS.ISO -m 512M
